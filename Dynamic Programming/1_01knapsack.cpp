@@ -1,3 +1,6 @@
+// This is a simple 01 Knapsack problem. You can find problem statement anywhere on the internet.
+// Both memoization and top-down solution is here.
+
 #include<bits/stdc++.h>
 using namespace std;
 
